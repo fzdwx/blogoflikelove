@@ -29,20 +29,7 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8b3d77de-e9a6-41c1-a01f-cc4e4451225c" name="默认的" comment="1">
-      <change afterPath="$PROJECT_DIR$/开发日志/1.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/开发日志/10.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/开发日志/2.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/开发日志/3.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/开发日志/4.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/开发日志/5.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/开发日志/6.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/开发日志/7.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/开发日志/8.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/开发日志/9.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/开发日志/项目部署.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/logo.png" beforeDir="false" />
-    </list>
+    <list default="true" id="8b3d77de-e9a6-41c1-a01f-cc4e4451225c" name="默认的" comment="1" />
     <list id="d688a9db-69a6-414e-803b-78e9cdba790b" name="在进行Update之前于 2020/9/16 14:08 取消提交了变更 [默认的]" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -100,7 +87,9 @@
     <dismissed value="$PROJECT_DIR$/bloguser/package.json" />
   </component>
   <component name="ProjectId" id="1h1v9LNfMswqsvxDUuXuEnsG3nl" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="新增" />
+  </component>
   <component name="ProjectViewState">
     <option name="abbreviatePackageNames" value="true" />
     <option name="autoscrollToSource" value="true" />
@@ -128,7 +117,7 @@
     <property name="javascript.nodejs.core.library.typings.version" value="12.12.55" />
     <property name="jmeter.home" value="" />
     <property name="jmeter.override" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/开发日志" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="nodejs_interpreter_path" value="node" />
     <property name="nodejs_package_manager_path" value="npm" />
@@ -141,25 +130,25 @@
     <property name="ts.external.directory.path" value="D:\ideaIU_2020.2_Portable\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.lk.blog" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Java\project\blog" />
+      <recent name="D:\Java\project\blog\开发日志" />
+      <recent name="D:\Java\project\blog\bloguser\public\img\bg" />
+      <recent name="D:\Java\project\blog\img\bg" />
+      <recent name="D:\Java\project\blog\java\main\java\com\lk\blog\service" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.lk.blog.controller" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\Java\project\blog\bloguser\src\views\user\userINFO" />
       <recent name="D:\Java\project\blog\bloguser\public\img\bg" />
       <recent name="D:\Java\project\blog\bloguser\src\views\user" />
       <recent name="D:\Java\project\blog\bloguser\src\views\login" />
       <recent name="D:\Java\project\blog\bloguser\src\views\home" />
-    </key>
-    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
-      <recent name="com.lk.blog" />
-    </key>
-    <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="com.lk.blog.controller" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="D:\Java\project\blog\bloguser\public\img\bg" />
-      <recent name="D:\Java\project\blog\img\bg" />
-      <recent name="D:\Java\project\blog\java\main\java\com\lk\blog\service" />
-      <recent name="D:\Java\project\blog\bloguser\public\img\icons" />
-      <recent name="D:\Java\project\blog\bloguser\src\assets\icon" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -385,7 +374,7 @@
       <workItem from="1600150135019" duration="14558000" />
       <workItem from="1600214842682" duration="443000" />
       <workItem from="1600217248424" duration="10614000" />
-      <workItem from="1600234998735" duration="1659000" />
+      <workItem from="1600234998735" duration="2222000" />
     </task>
     <task id="LOCAL-00001" summary="添加前端">
       <created>1600234089501</created>
@@ -620,18 +609,22 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="691" y="188" key="Maven.ArtifactSearchDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1599305509838" />
-    <state x="489" y="238" width="998" height="708" key="SettingsEditor" timestamp="1600236030292">
+    <state x="790" y="240" key="RollbackChangesDialog" timestamp="1600236708773">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="489" y="238" width="998" height="708" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1600236030292" />
+    <state x="790" y="240" key="RollbackChangesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1600236708773" />
+    <state x="489" y="238" width="998" height="708" key="SettingsEditor" timestamp="1600237240955">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="489" y="238" width="998" height="708" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1600237240955" />
     <state width="498" height="446" key="SwitcherDM" timestamp="1599350901531">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="498" height="446" key="SwitcherDM/0.0.1920.1040@0.0.1920.1040" timestamp="1599350901531" />
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1600236664561">
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1600236685338">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1600236664561" />
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1600236685338" />
     <state x="831" y="418" key="WebDeployment.AddServerDialog.v.1" timestamp="1599789956094">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
