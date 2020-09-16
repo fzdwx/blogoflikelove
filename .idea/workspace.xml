@@ -1,0 +1,703 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="BRANCH:origin/master" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </select>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="8b3d77de-e9a6-41c1-a01f-cc4e4451225c" name="默认的" comment="1">
+      <change afterPath="$PROJECT_DIR$/开发日志/1.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/开发日志/10.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/开发日志/2.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/开发日志/3.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/开发日志/4.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/开发日志/5.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/开发日志/6.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/开发日志/7.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/开发日志/8.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/开发日志/9.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/开发日志/项目部署.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/logo.png" beforeDir="false" />
+    </list>
+    <list id="d688a9db-69a6-414e-803b-78e9cdba790b" name="在进行Update之前于 2020/9/16 14:08 取消提交了变更 [默认的]" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="CompilerWorkspaceConfiguration">
+    <option name="MAKE_PROJECT_ON_SAVE" value="true" />
+  </component>
+  <component name="DockerExecCommand">
+    <ExecCommand>
+      <option name="command" value="h" />
+      <option name="imageId" value="sha256:d589ea3123e06ae2cfb548f3a697fc82986878afb1ef7b4fe1d8a3981d420620" />
+    </ExecCommand>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="package.json" />
+        <option value="HTML File" />
+        <option value="Sass File" />
+        <option value="CSS File" />
+        <option value="JavaScript File" />
+        <option value="Class" />
+        <option value="Vue Single File Component" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="like &lt;980650920@qq.com&gt;" />
+      </list>
+    </option>
+    <option name="PUSH_AUTO_UPDATE" value="true" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="SIGN_OFF_COMMIT" value="true" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="C:\Users\pdd20\.m2\wrapper\dists\apache-maven-3.6.3-bin\1iopthnavndlasol9gbrbg6bf2\apache-maven-3.6.3" />
+        <option name="userSettingsFile" value="D:\Java\tool\apache-maven-3.6.3-bin\apache-maven-3.6.3\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="skipTests" value="true" />
+  </component>
+  <component name="PackageJsonUpdateNotifier">
+    <dismissed value="$PROJECT_DIR$/bloguser/package.json" />
+  </component>
+  <component name="ProjectId" id="1h1v9LNfMswqsvxDUuXuEnsG3nl" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="abbreviatePackageNames" value="true" />
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ConfigurationTypeDashboardGroupingRule" value="false" />
+    <property name="DatabaseDriversLRU" value="oracle&#10;mysql" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="StatusDashboardGroupingRule" value="false" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.mappings" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.symlinks" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.date" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.permissions" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.size" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="javascript.nodejs.core.library.configured.version" value="12.18.3" />
+    <property name="javascript.nodejs.core.library.typings.version" value="12.12.55" />
+    <property name="jmeter.home" value="" />
+    <property name="jmeter.override" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/开发日志" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="nodejs_interpreter_path" value="node" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="模块" />
+    <property name="project.structure.proportion" value="0.1507799" />
+    <property name="project.structure.side.proportion" value="0.21489161" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+    <property name="show.run.dashboard.notification" value="false" />
+    <property name="ts.external.directory.path" value="D:\ideaIU_2020.2_Portable\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Java\project\blog\bloguser\src\views\user\userINFO" />
+      <recent name="D:\Java\project\blog\bloguser\public\img\bg" />
+      <recent name="D:\Java\project\blog\bloguser\src\views\user" />
+      <recent name="D:\Java\project\blog\bloguser\src\views\login" />
+      <recent name="D:\Java\project\blog\bloguser\src\views\home" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.lk.blog" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.lk.blog.controller" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Java\project\blog\bloguser\public\img\bg" />
+      <recent name="D:\Java\project\blog\img\bg" />
+      <recent name="D:\Java\project\blog\java\main\java\com\lk\blog\service" />
+      <recent name="D:\Java\project\blog\bloguser\public\img\icons" />
+      <recent name="D:\Java\project\blog\bloguser\src\assets\icon" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="CompoundRunConfigurationType" />
+        <option value="ShConfigurationType" />
+        <option value="SpringBootApplicationConfigurationType" />
+        <option value="js.build_tools.npm" />
+      </set>
+    </option>
+    <option name="hiddenConfigurations">
+      <map>
+        <entry key="js.build_tools.npm">
+          <value>
+            <set>
+              <option value="build" />
+            </set>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="RunManager" selected="npm.build">
+    <configuration name="JWTUtils" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.lk.blog.utils.JWTUtils" />
+      <module name="blog" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.lk.blog.utils.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MarkdownUtils" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.lk.blog.utils.MarkdownUtils" />
+      <module name="blog" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.lk.blog.utils.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MpGenerator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.lk.blog.generator.MpGenerator" />
+      <module name="blog" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.lk.blog.generator.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Debug Application" type="JavascriptDebugType" uri="http://localhost:8080">
+      <method v="2" />
+    </configuration>
+    <configuration name="BlogApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="blog" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.lk.blog.BlogApplication" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="blog-docker" type="docker-deploy" factoryName="dockerfile" server-name="aliyun">
+      <deployment type="dockerfile">
+        <settings>
+          <option name="imageTag" value="like.blog:1.0" />
+          <option name="buildCliOptions" value="" />
+          <option name="command" value="" />
+          <option name="containerName" value="" />
+          <option name="entrypoint" value="" />
+          <option name="portBindings">
+            <list>
+              <DockerPortBindingImpl>
+                <option name="containerPort" value="1211" />
+                <option name="hostPort" value="1211" />
+              </DockerPortBindingImpl>
+            </list>
+          </option>
+          <option name="commandLineOptions" value="" />
+          <option name="sourceFilePath" value="java/main/docker/Dockerfile" />
+          <option name="volumeBindings">
+            <list>
+              <DockerVolumeBindingImpl>
+                <option name="containerPath" value="/etc/docker/myapp " />
+              </DockerVolumeBindingImpl>
+            </list>
+          </option>
+        </settings>
+      </deployment>
+      <method v="2" />
+    </configuration>
+    <configuration name="build" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/bloguser/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="build" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration name="serve" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/bloguser/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="serve" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Docker.blog-docker" />
+      <item itemvalue="JavaScript 调试.Debug Application" />
+      <item itemvalue="npm.serve" />
+      <item itemvalue="npm.build" />
+      <item itemvalue="Spring Boot.BlogApplication" />
+      <item itemvalue="应用程序.JWTUtils" />
+      <item itemvalue="应用程序.MarkdownUtils" />
+      <item itemvalue="应用程序.MpGenerator" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="npm.build" />
+        <item itemvalue="npm.serve" />
+        <item itemvalue="应用程序.JWTUtils" />
+        <item itemvalue="应用程序.MpGenerator" />
+        <item itemvalue="应用程序.MarkdownUtils" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8b3d77de-e9a6-41c1-a01f-cc4e4451225c" name="默认的" comment="" />
+      <created>1599191260628</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1599191260628</updated>
+      <workItem from="1599191263545" duration="9723000" />
+      <workItem from="1599208538849" duration="333000" />
+      <workItem from="1599208904862" duration="7541000" />
+      <workItem from="1599264331962" duration="11831000" />
+      <workItem from="1599284317546" duration="6594000" />
+      <workItem from="1599304920057" duration="2037000" />
+      <workItem from="1599313554940" duration="1630000" />
+      <workItem from="1599315225187" duration="2089000" />
+      <workItem from="1599350827637" duration="7402000" />
+      <workItem from="1599362405655" duration="6145000" />
+      <workItem from="1599368747368" duration="70000" />
+      <workItem from="1599368847658" duration="1600000" />
+      <workItem from="1599370493638" duration="1833000" />
+      <workItem from="1599372367310" duration="1763000" />
+      <workItem from="1599374168392" duration="5152000" />
+      <workItem from="1599379429140" duration="4461000" />
+      <workItem from="1599390954207" duration="13426000" />
+      <workItem from="1599434274628" duration="8229000" />
+      <workItem from="1599443112983" duration="551000" />
+      <workItem from="1599443701044" duration="1575000" />
+      <workItem from="1599445361118" duration="18388000" />
+      <workItem from="1599469869187" duration="15719000" />
+      <workItem from="1599520751534" duration="27892000" />
+      <workItem from="1599605500026" duration="169000" />
+      <workItem from="1599605982523" duration="37549000" />
+      <workItem from="1599693803013" duration="3850000" />
+      <workItem from="1599705838705" duration="24195000" />
+      <workItem from="1599731129699" duration="110000" />
+      <workItem from="1599731597159" duration="431000" />
+      <workItem from="1599732070201" duration="3899000" />
+      <workItem from="1599737620110" duration="136000" />
+      <workItem from="1599738010626" duration="351000" />
+      <workItem from="1599742804888" duration="4261000" />
+      <workItem from="1599782493081" duration="5075000" />
+      <workItem from="1599789535687" duration="332000" />
+      <workItem from="1599789901437" duration="9402000" />
+      <workItem from="1599810684818" duration="4042000" />
+      <workItem from="1599814884209" duration="20632000" />
+      <workItem from="1599870923919" duration="17820000" />
+      <workItem from="1599917152983" duration="4409000" />
+      <workItem from="1599958153466" duration="3620000" />
+      <workItem from="1599966588083" duration="4945000" />
+      <workItem from="1599971608078" duration="1711000" />
+      <workItem from="1599979459129" duration="3408000" />
+      <workItem from="1599983006208" duration="7832000" />
+      <workItem from="1599994794371" duration="967000" />
+      <workItem from="1599995811298" duration="5677000" />
+      <workItem from="1600001667616" duration="1987000" />
+      <workItem from="1600004100949" duration="783000" />
+      <workItem from="1600005059718" duration="1935000" />
+      <workItem from="1600045829105" duration="17677000" />
+      <workItem from="1600063781223" duration="20273000" />
+      <workItem from="1600150135019" duration="14558000" />
+      <workItem from="1600214842682" duration="443000" />
+      <workItem from="1600217248424" duration="10614000" />
+      <workItem from="1600234998735" duration="1659000" />
+    </task>
+    <task id="LOCAL-00001" summary="添加前端">
+      <created>1600234089501</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1600234089501</updated>
+    </task>
+    <task id="LOCAL-00002" summary="添加前端">
+      <created>1600234114455</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1600234114455</updated>
+    </task>
+    <task id="LOCAL-00003" summary="1">
+      <created>1600235145022</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1600235145022</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UpdateCopyrightCheckinHandler">
+    <option name="UPDATE_COPYRIGHT" value="true" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="origin/master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="User">
+          <value>
+            <list>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="*" />
+                </option>
+              </RecentGroup>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_CLEANUP_BEFORE_PROJECT_COMMIT" value="true" />
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/front/bloguser" />
+      <path value="$PROJECT_DIR$/blogoflikelove" />
+      <path value="$PROJECT_DIR$/bloguser" />
+      <path value="$PROJECT_DIR$" />
+    </ignored-roots>
+    <MESSAGE value="添加前端" />
+    <MESSAGE value="删除" />
+    <MESSAGE value="1" />
+    <option name="LAST_COMMIT_MESSAGE" value="1" />
+    <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
+    <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="536" y="165" key="#SSH_配置" timestamp="1599790046028">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="536" y="165" key="#SSH_配置/0.0.1920.1040@0.0.1920.1040" timestamp="1599790046028" />
+    <state x="970" y="219" width="644" height="584" key="#aliyun" timestamp="1599640553356">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="970" y="219" width="644" height="584" key="#aliyun/0.0.1920.1040@0.0.1920.1040" timestamp="1599640553356" />
+    <state x="371" y="214" width="1092" height="740" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1599713778007">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="371" y="214" width="1092" height="740" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1599713778007" />
+    <state x="816" y="320" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1600217564429">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="816" y="320" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1600217564429" />
+    <state x="1530" y="222" key="#com.intellij.ide.util.MemberChooser" timestamp="1600167234825">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1530" y="222" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1600167234825" />
+    <state x="684" y="443" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1599209046034">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="684" y="443" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1599209046034" />
+    <state x="796" y="400" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages" timestamp="1599193223367">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="796" y="400" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages/0.0.1920.1040@0.0.1920.1040" timestamp="1599193223367" />
+    <state x="1191" y="376" key="#com.intellij.refactoring.move.moveInstanceMethod.MoveInstanceMethodDialog" timestamp="1599280049151">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1191" y="376" key="#com.intellij.refactoring.move.moveInstanceMethod.MoveInstanceMethodDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1599280049151" />
+    <state x="344" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1599362247333">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="344" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1599362247333" />
+    <state x="973" y="210" key="#新建_Docker_连接" timestamp="1599607631505">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="973" y="210" key="#新建_Docker_连接/0.0.1920.1040@0.0.1920.1040" timestamp="1599607631505" />
+    <state x="619" y="257" key="#检查" timestamp="1599565151053">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="619" y="257" key="#检查/0.0.1920.1040@0.0.1920.1040" timestamp="1599565151053" />
+    <state x="552" y="178" key="#部署" timestamp="1599790090443">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="178" key="#部署/0.0.1920.1040@0.0.1920.1040" timestamp="1599790090443" />
+    <state x="504" y="98" key="#项目结构" timestamp="1600236104791">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="504" y="98" key="#项目结构/0.0.1920.1040@0.0.1920.1040" timestamp="1600236104791" />
+    <state x="711" y="370" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1600231103356">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="711" y="370" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1920.1040@0.0.1920.1040" timestamp="1600231103356" />
+    <state x="636" y="84" width="834" height="871" key="CommitChangelistDialog2" timestamp="1600236410802">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="636" y="84" width="834" height="871" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1600236410802" />
+    <state x="59" y="68" width="1736" height="856" key="DiffContextDialog" timestamp="1600236674082">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="59" y="68" width="1736" height="856" key="DiffContextDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1600236674082" />
+    <state x="773" y="333" key="FileChooserDialogImpl" timestamp="1600235970489">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="773" y="333" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1600235970488" />
+    <state x="802" y="421" key="Github.CreateGistDialog" timestamp="1600236083863">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="802" y="421" key="Github.CreateGistDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1600236083863" />
+    <state x="845" y="417" key="Github.ShareDialog" timestamp="1600236162775">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="845" y="417" key="Github.ShareDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1600236162775" />
+    <state x="753" y="215" key="Github.UntrackedFilesDialog" timestamp="1600236171942">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="753" y="215" key="Github.UntrackedFilesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1600236171942" />
+    <state width="1877" height="383" key="GridCell.Tab.0.bottom" timestamp="1600236496007">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="383" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1600236496007" />
+    <state width="1877" height="383" key="GridCell.Tab.0.center" timestamp="1600236496007">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="383" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1600236496007" />
+    <state width="1877" height="383" key="GridCell.Tab.0.left" timestamp="1600236496007">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="383" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1600236496007" />
+    <state width="1877" height="383" key="GridCell.Tab.0.right" timestamp="1600236496007">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="383" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1600236496007" />
+    <state width="1364" height="252" key="GridCell.Tab.1.bottom" timestamp="1600232556386">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1364" height="252" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1600232556386" />
+    <state width="1364" height="252" key="GridCell.Tab.1.center" timestamp="1600232556386">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1364" height="252" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1600232556386" />
+    <state width="1364" height="252" key="GridCell.Tab.1.left" timestamp="1600232556386">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1364" height="252" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1600232556386" />
+    <state width="1364" height="252" key="GridCell.Tab.1.right" timestamp="1600232556386">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1364" height="252" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1600232556386" />
+    <state width="1213" height="342" key="GridCell.Tab.2.bottom" timestamp="1599787864314">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1213" height="342" key="GridCell.Tab.2.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1599787864314" />
+    <state width="1213" height="342" key="GridCell.Tab.2.center" timestamp="1599787864314">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1213" height="342" key="GridCell.Tab.2.center/0.0.1920.1040@0.0.1920.1040" timestamp="1599787864314" />
+    <state width="1213" height="342" key="GridCell.Tab.2.left" timestamp="1599787864314">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1213" height="342" key="GridCell.Tab.2.left/0.0.1920.1040@0.0.1920.1040" timestamp="1599787864314" />
+    <state width="1213" height="342" key="GridCell.Tab.2.right" timestamp="1599787864314">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1213" height="342" key="GridCell.Tab.2.right/0.0.1920.1040@0.0.1920.1040" timestamp="1599787864314" />
+    <state width="1213" height="342" key="GridCell.Tab.3.bottom" timestamp="1599787864315">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1213" height="342" key="GridCell.Tab.3.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1599787864315" />
+    <state width="1213" height="342" key="GridCell.Tab.3.center" timestamp="1599787864315">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1213" height="342" key="GridCell.Tab.3.center/0.0.1920.1040@0.0.1920.1040" timestamp="1599787864315" />
+    <state width="1213" height="342" key="GridCell.Tab.3.left" timestamp="1599787864315">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1213" height="342" key="GridCell.Tab.3.left/0.0.1920.1040@0.0.1920.1040" timestamp="1599787864315" />
+    <state width="1213" height="342" key="GridCell.Tab.3.right" timestamp="1599787864315">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1213" height="342" key="GridCell.Tab.3.right/0.0.1920.1040@0.0.1920.1040" timestamp="1599787864315" />
+    <state x="691" y="188" key="Maven.ArtifactSearchDialog" timestamp="1599305509838">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="691" y="188" key="Maven.ArtifactSearchDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1599305509838" />
+    <state x="489" y="238" width="998" height="708" key="SettingsEditor" timestamp="1600236030292">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="489" y="238" width="998" height="708" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1600236030292" />
+    <state width="498" height="446" key="SwitcherDM" timestamp="1599350901531">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="498" height="446" key="SwitcherDM/0.0.1920.1040@0.0.1920.1040" timestamp="1599350901531" />
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1600236664561">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1600236664561" />
+    <state x="831" y="418" key="WebDeployment.AddServerDialog.v.1" timestamp="1599789956094">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="831" y="418" key="WebDeployment.AddServerDialog.v.1/0.0.1920.1040@0.0.1920.1040" timestamp="1599789956094" />
+    <state width="1476" height="1038" key="com.intellij.byteCodeViewer.ShowByteCodeAction" timestamp="1600170202673">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1476" height="1038" key="com.intellij.byteCodeViewer.ShowByteCodeAction/0.0.1920.1040@0.0.1920.1040" timestamp="1600170202673" />
+    <state x="946" y="689" width="572" height="207" key="com.intellij.docker.deployment.ui.DockerPortBindingsField.v173.dialogSize" timestamp="1599610705887">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="946" y="689" width="572" height="207" key="com.intellij.docker.deployment.ui.DockerPortBindingsField.v173.dialogSize/0.0.1920.1040@0.0.1920.1040" timestamp="1599610705887" />
+    <state x="946" y="689" width="552" height="207" key="com.intellij.docker.deployment.ui.DockerVolumeBindingsField.v173.dialogSize" timestamp="1599610203879">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="946" y="689" width="552" height="207" key="com.intellij.docker.deployment.ui.DockerVolumeBindingsField.v173.dialogSize/0.0.1920.1040@0.0.1920.1040" timestamp="1599610203879" />
+    <state x="773" y="433" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1600236673870">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="773" y="433" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040@0.0.1920.1040" timestamp="1600236673870" />
+    <state x="-221" y="231" width="1573" height="996" key="dock-window-1" timestamp="1600085247655">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="-221" y="231" width="1573" height="996" key="dock-window-1/0.0.1920.1040@0.0.1920.1040" timestamp="1600085247655" />
+    <state x="661" y="74" width="597" height="891" key="find.popup" timestamp="1599871567148">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="661" y="74" width="597" height="891" key="find.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1599871567148" />
+    <state x="815" y="250" key="ftp.server.browser" timestamp="1599790089239">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="815" y="250" key="ftp.server.browser/0.0.1920.1040@0.0.1920.1040" timestamp="1599790089239" />
+    <state x="143" y="208" width="1183" height="780" key="new project wizard" timestamp="1599313889229">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="143" y="208" width="1183" height="780" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1599313889229" />
+    <state x="1310" y="318" key="refactoring.ChangeSignatureDialog" timestamp="1600058332093">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1310" y="318" key="refactoring.ChangeSignatureDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1600058332093" />
+    <state x="616" y="240" key="run.anything.popup" timestamp="1600058797710">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="616" y="240" key="run.anything.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1600058797710" />
+    <state x="916" y="230" width="672" height="678" key="search.everywhere.popup" timestamp="1600217864311">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="916" y="230" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1600217864311" />
+    <state x="684" y="427" key="vcs.readOnlyHandler.ReadOnlyStatusDialog" timestamp="1599193092172">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="684" y="427" key="vcs.readOnlyHandler.ReadOnlyStatusDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1599193092172" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/blogoflikelove/src/views/blog/BlogForm.vue</url>
+          <line>49</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
