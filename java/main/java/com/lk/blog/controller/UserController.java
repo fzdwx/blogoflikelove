@@ -70,7 +70,7 @@ public class UserController {
         HashMap<String, Object> data = ResultUtils.objPutInMap("blogList", blogList);
         //总数量
         int count = blogList.size();
-        data.put("blogCount",count);
+        data.put("blogCount", count);
         return Result.ok().setData(data).setMessage("获取成功");
     }
 
@@ -132,13 +132,13 @@ public class UserController {
     @ApiOperation (value = "登录")
     public Result loginUser(@RequestBody @ApiParam ("需要登录的用户") User user) {
         log.info("==========UserController====loginUser:user:" + user);
-        String token = null;
-        try {
-            token = userService.login(user);
-        } catch (Exception e) {
-
+        HashMap<String, Object> data = null;
+        if (user.getUid() != null) {
+            String token = userService.login(user);
+            if (token != null) {
+                data = ResultUtils.objPutInMap("token", token);
+            }
         }
-        HashMap<String, Object> data = ResultUtils.objPutInMap("token", token);
         return ResultUtils.returnObjectDataIsNull("登录成功", "登录失败，用户名或者密码错误", data);
     }
 

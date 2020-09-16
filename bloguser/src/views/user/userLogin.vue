@@ -25,7 +25,7 @@
                 </el-form-item>
                 <!--按钮-->
                 <el-form-item class="bnts">
-                    <el-button type="primary" @click="loginMe()">登录</el-button>
+                    <el-button type="primary" @click="login()">登录</el-button>
                     <el-button type="info" @click="reset">重置</el-button>
                 </el-form-item>
             </el-form>
@@ -49,6 +49,9 @@ export default {
     },
     methods: {
         loginMe() {
+            this.loginMe;
+        },
+        login() {
             //执行调用远程登录接口
             userApi.loginUser(this.user)
                 .then(res => {
@@ -56,11 +59,12 @@ export default {
                     //写入cookie
                     cookie.set("blog-token", res.data.token);
                     //跳转到查看所有博客页面
-                    window.location.href = '/blog/show'
+                    this.$router.push({path: '/blog/show'})
                 })
-                .catch(error => {
+                .catch(response => {
                     this.$message.error("登录失败，用户名或密码错误")
                 });
+
         },
         goLogin() {
             this.$router.push({
