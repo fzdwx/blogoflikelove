@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns = "http://maven.apache.org/POM/4.0.0"
+         xmlns:xsi = "http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation = "http://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd">
+	<modelVersion>4.0.0</modelVersion>
+	<parent>
+		<groupId>org.springframework.boot</groupId>
+		<artifactId>spring-boot-starter-parent</artifactId>
+		<version>2.3.3.RELEASE</version>
+		<relativePath />
+		<!-- lookup parent from repository -->
+	</parent>
+	<groupId>com.lk</groupId>
+	<artifactId>blog</artifactId>
+	<version>0.0.1-SNAPSHOT</version>
+	<name>blog</name>
+	<description>this is my blog project</description>
+	
+	<properties>
+		<java.version>1.8</java.version>
+		<mybatis-plus.version>3.4.0</mybatis-plus.version>
+		<velocity.version>2.2</velocity.version>
+		<swagger.version>2.7.0</swagger.version>
+		<fastjson.version>1.2.73</fastjson.version>
+		<saToken.version>1.4.0</saToken.version>
+		<huTool.version>5.1.0</huTool.version>
+		<commonmark.version>0.15.2</commonmark.version>
+	</properties>
+	
+	<dependencies>
+		<dependency>
+			<groupId>io.jsonwebtoken</groupId>
+			<artifactId>jjwt</artifactId>
+			<version>0.7.0</version>
+		</dependency>
+		<!--spring web-->
+		<dependency>
+			<groupId>org.springframework.boot</groupId>
+			<artifactId>spring-boot-starter-web</artifactId>
+		</dependency>
+		<dependency>
+			<groupId>org.springframework.boot</groupId>
+			<artifactId>spring-boot-starter-actuator</artifactId>
+		</dependency>
+		
+		<!--mybatis plus-->
+		<dependency>
+			<groupId>com.baomidou</groupId>
+			<artifactId>mybatis-plus-boot-starter</artifactId>
+			<version>${mybatis-plus.version}</version>
+		</dependency>
+		<!--mp 代码生成器-->
+		<dependency>
+			<groupId>com.baomidou</groupId>
+			<artifactId>mybatis-plus-generator</artifactId>
+			<version>${mybatis-plus.version}</version>
+		</dependency>
+		<!-- velocity 模板引擎, Mybatis Plus 代码生成器需要 -->
+		<dependency>
+			<groupId>org.apache.velocity</groupId>
+			<artifactId>velocity-engine-core</artifactId>
+			<version>${velocity.version}</version>
+		</dependency>
+		
+		<!--swagger-->
+		<dependency>
+			<groupId>io.springfox</groupId>
+			<artifactId>springfox-swagger2</artifactId>
+			<version>${swagger.version}</version>
+		</dependency>
+		<!--swagger ui-->
+		<dependency>
+			<groupId>io.springfox</groupId>
+			<artifactId>springfox-swagger-ui</artifactId>
+			<version>${swagger.version}</version>
+		</dependency>
+		<!--jdbc-->
+		<dependency>
+			<groupId>mysql</groupId>
+			<artifactId>mysql-connector-java</artifactId>
+		</dependency>
+		<!--lombok-->
+		<dependency>
+			<groupId>org.projectlombok</groupId>
+			<artifactId>lombok</artifactId>
+		</dependency>
+		
+		<!--hu tool-->
+		<dependency>
+			<groupId>cn.hutool</groupId>
+			<artifactId>hutool-all</artifactId>
+			<version>${huTool.version}</version>
+		</dependency>
+		<!--markdown - html-->
+		<dependency>
+			<groupId>com.atlassian.commonmark</groupId>
+			<artifactId>commonmark</artifactId>
+			<version>${commonmark.version}</version>
+		</dependency>
+		<dependency>
+			<groupId>com.atlassian.commonmark</groupId>
+			<artifactId>commonmark-ext-heading-anchor</artifactId>
+			<version>${commonmark.version}</version>
+		</dependency>
+		<dependency>
+			<groupId>com.atlassian.commonmark</groupId>
+			<artifactId>commonmark-ext-gfm-tables</artifactId>
+			<version>${commonmark.version}</version>
+		</dependency>
+		<dependency>
+			<groupId>org.springframework.boot</groupId>
+			<artifactId>spring-boot-starter-test</artifactId>
+			<exclusions>
+				<exclusion>
+					<groupId>org.junit.vintage</groupId>
+					<artifactId>junit-vintage-engine</artifactId>
+				</exclusion>
+			</exclusions>
+		</dependency>
+		
+		<!--SpringBoot热部署-->
+		<dependency>
+			<groupId>org.springframework.boot</groupId>
+			<artifactId>spring-boot-devtools</artifactId>
+			<optional>true</optional> <!-- 这个需要为 true 热部署才有效 -->
+		</dependency>
+		
+		
+	</dependencies>
+	<!--maven 打包-->
+	<build>
+		<resources>
+			<resource>
+				<directory>java/main/resources</directory>
+				<includes>
+					<include>*.txt</include>  <!--将banner.txt 编译进target-->
+					<include>*.jpg</include>  <!--将banner.txt 编译进target-->
+					<include>*.gif</include>  <!--将banner.txt 编译进target-->
+				</includes>
+			</resource>
+			<resource>
+				<directory>java/main/resources</directory>
+				<includes>
+					<include>*.properties</include>
+					<include>static/**</include>
+					<include>templates/**</include>
+				</includes>
+				<filtering>false</filtering>
+			</resource>
+		</resources>
+		<plugins>
+			<plugin>
+				<groupId>org.springframework.boot</groupId>
+				<artifactId>spring-boot-maven-plugin</artifactId>
+			</plugin>
+		</plugins>
+		<!--<plugins>
+			<plugin>
+				<groupId>org.springframework.boot</groupId>
+				<artifactId>spring-boot-maven-plugin</artifactId>
+			</plugin>
+			<plugin>
+				<groupId>com.spotify</groupId>
+				<artifactId>docker-maven-plugin</artifactId>
+				&lt;!&ndash;将插件绑定在某个phase执行&ndash;&gt;
+				<executions>
+					<execution>
+						<id>build-image</id>
+						&lt;!&ndash;将插件绑定在package这个phase上。也就是说，用户只需执行mvn package ，就会自动执行mvn docker:build&ndash;&gt;
+						<phase>package</phase>
+						<goals>
+							<goal>build</goal>
+						</goals>
+					</execution>
+				</executions>
+				<configuration>
+					&lt;!&ndash;指定生成的镜像名&ndash;&gt;
+					<imageName>like.blog/${project.artifactId}</imageName>
+					&lt;!&ndash;指定标签&ndash;&gt;
+					<imageTags>
+						<imageTag>latest</imageTag>
+					</imageTags>
+					&lt;!&ndash; 指定 Dockerfile 路径&ndash;&gt;
+					<dockerDirectory>${project.basedir}/src/main/docker</dockerDirectory>
+					
+					&lt;!&ndash;指定远程 docker api地址&ndash;&gt;
+					<dockerHost>tcp://47.112.150.204:2375</dockerHost>
+					&lt;!&ndash; 这里是复制 jar 包到 docker 容器指定目录配置 &ndash;&gt;
+					<resources>
+						<resource>
+							<targetPath>/</targetPath>
+							&lt;!&ndash;jar 包所在的路径  此处配置的 即对应 target 目录&ndash;&gt;
+							<directory>${project.build.directory}</directory>
+							&lt;!&ndash; 需要包含的 jar包 ，这里对应的是 Dockerfile中添加的文件名　&ndash;&gt;
+							<include>${project.build.finalName}.jar</include>
+						</resource>
+					</resources>
+				</configuration>
+			</plugin>
+		</plugins>-->
+	</build>
+</project>

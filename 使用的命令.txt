@@ -1,0 +1,15 @@
+npm init
+
+npm install --save-dev css-loader
+cnpm install --save-dev style-loader
+npm install --save-dev url-loader
+
+npm install vue -save
+cnpm install vue-loader vue-template-compiler --save-dev
+
+
+npm install html-webpack-plugin --save-dev
+npm install uglifyjs-webpack-plugin@1.1.1 --save-dev
+npm install --save-dev webpack-dev-server@2.9.1
+
+vue init webpack BlogUser   #init 一个vue项目

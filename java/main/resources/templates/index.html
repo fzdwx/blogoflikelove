@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>hello</title>
+    <script src="/webjars/vue/2.6.9/dist/vue.js"></script>
+</head>
+<body>
+<div id="app">
+    <h2>{{message}}</h2>
+    <input type="text" v-model.lazy="message">
+
+
+    <cpn></cpn>
+</div>
+
+
+<script>
+
+    //1 创建组件构造器对象
+    let cpn = Vue.extend({
+        template: `
+            <div>
+                <h2>hello</h2>
+                 <p>内容</p>
+           </div>
+
+`
+    });
+    //2.png 注册组件
+    Vue.component("cpn",cpn)
+    //3.png 使用组件
+
+
+    let app = new Vue({
+        el: '#app',
+        data: {
+            message: '你好',
+        },
+    })
+</script>
+</body>
+</html>
