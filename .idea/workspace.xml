@@ -212,17 +212,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
-      <option name="arquillianRunConfiguration">
-        <value>
-          <option name="containerStateName" value="" />
-        </value>
-      </option>
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="Debug Application" type="JavascriptDebugType" uri="http://localhost:8080">
       <method v="2" />
     </configuration>
@@ -375,6 +364,8 @@
       <workItem from="1600234998735" duration="2505000" />
       <workItem from="1600242025566" duration="63000" />
       <workItem from="1600244267502" duration="2519000" />
+      <workItem from="1600309795726" duration="381000" />
+      <workItem from="1600415592988" duration="14000" />
     </task>
     <task id="LOCAL-00001" summary="添加前端">
       <created>1600234089501</created>
