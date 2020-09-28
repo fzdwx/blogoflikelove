@@ -21,12 +21,11 @@
                         </template>
                         <el-menu-item index="2-1" @click="goBlog">
                             <i class="el-icon-view"></i>
-                            show
+                            查看
                         </el-menu-item>
-
                         <el-menu-item index="2-2" @click="goBlogEdit">
                             <i class="el-icon-edit"></i>
-                            add
+                            添加
                         </el-menu-item>
                     </el-submenu>
                     <el-menu-item index="3" @click="goMessageBord" name="messageBord">

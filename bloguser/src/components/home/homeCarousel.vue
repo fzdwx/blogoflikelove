@@ -14,9 +14,9 @@ export default {
     data() {
         return {
             imgs: [
-                'https://images.pexels.com/photos/590141/pexels-photo-590141.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500',
-                'https://images.pexels.com/photos/3062527/pexels-photo-3062527.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500',
-                'https://images.pexels.com/photos/1841709/pexels-photo-1841709.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500',
+                'https://images.pexels.com/photos/5280545/pexels-photo-5280545.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500',
+                'https://images.pexels.com/photos/3879055/pexels-photo-3879055.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500',
+                'https://images.pexels.com/photos/5156010/pexels-photo-5156010.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500',
                 'https://images.pexels.com/photos/2508810/pexels-photo-2508810.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500',
                 'https://images.pexels.com/photos/5099224/pexels-photo-5099224.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500',
 

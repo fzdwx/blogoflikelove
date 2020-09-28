@@ -7,12 +7,11 @@
         <!--main-->
         <el-main>
             <div v-if="this.$route.path==='/'">
-                <div style="text-align: center"> 这是首页
-                    hello this is blog,welcome
-                    <div align="center">
+                <div style="text-align: center">
+                   <!-- <div align="center">
                         <img src="/static/message/wanyihao.jpg"/>
-                    </div>
-                    <!--<homeCarousel/>-->
+                    </div>-->
+                    <homeCarousel/>
                 </div>
             </div>
             <div v-else>
@@ -53,5 +52,4 @@ export default {
 }
 </script>
 <style lang="scss">
-
 </style>
