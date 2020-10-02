@@ -72,6 +72,7 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="SIGN_OFF_COMMIT" value="true" />
   </component>
+  <component name="JupyterTrust" id="e87d2562-cb4c-443b-9004-07cc024fa906" />
   <component name="MavenImportPreferences">
     <option name="generalSettings">
       <MavenGeneralSettings>
@@ -208,6 +209,17 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -372,6 +384,7 @@
       <workItem from="1600563589471" duration="239000" />
       <workItem from="1600564113771" duration="395000" />
       <workItem from="1600855853124" duration="956000" />
+      <workItem from="1601642915132" duration="59000" />
     </task>
     <task id="LOCAL-00001" summary="添加前端">
       <created>1600234089501</created>

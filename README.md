@@ -1,5 +1,5 @@
 # blog
- 一个由SpringBoot+vue+element ui写的博客项目
+ 这是一个博客项目，后端是基于SSM框架，前端基于vue + element-ui。
 
 在线访问：http://47.112.150.204
 gitee:https://gitee.com/likeloveC/blogoflikelove
