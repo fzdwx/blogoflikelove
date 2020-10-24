@@ -39,6 +39,9 @@
   <component name="CodeInsightWorkspaceSettings">
     <option name="optimizeImportsOnTheFly" value="true" />
   </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
   <component name="CompilerWorkspaceConfiguration">
     <option name="MAKE_PROJECT_ON_SAVE" value="true" />
   </component>
@@ -72,6 +75,9 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="SIGN_OFF_COMMIT" value="true" />
   </component>
+  <component name="GitToolBoxStore">
+    <option name="projectConfigVersion" value="2" />
+  </component>
   <component name="JupyterTrust" id="e87d2562-cb4c-443b-9004-07cc024fa906" />
   <component name="MavenImportPreferences">
     <option name="generalSettings">
@@ -86,6 +92,9 @@
   </component>
   <component name="PackageJsonUpdateNotifier">
     <dismissed value="$PROJECT_DIR$/bloguser/package.json" />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
   </component>
   <component name="ProjectId" id="1h1v9LNfMswqsvxDUuXuEnsG3nl" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -115,7 +124,7 @@
     <property name="WebServerToolWindowPanel.toolwindow.show.size" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="javascript.nodejs.core.library.configured.version" value="12.18.3" />
-    <property name="javascript.nodejs.core.library.typings.version" value="12.12.55" />
+    <property name="javascript.nodejs.core.library.typings.version" value="12.12.67" />
     <property name="jmeter.home" value="" />
     <property name="jmeter.override" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -126,13 +135,23 @@
     <property name="project.structure.proportion" value="0.1507799" />
     <property name="project.structure.side.proportion" value="0.21489161" />
     <property name="restartRequiresConfirmation" value="false" />
-    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
     <property name="show.run.dashboard.notification" value="false" />
     <property name="ts.external.directory.path" value="D:\ideaIU_2020.2_Portable\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Java\project\blog" />
+      <recent name="D:\Java\project\blog\bloguser\src\views\user\userINFO" />
+      <recent name="D:\Java\project\blog\bloguser\public\img\bg" />
+      <recent name="D:\Java\project\blog\bloguser\src\views\user" />
+      <recent name="D:\Java\project\blog\bloguser\src\views\login" />
+    </key>
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="com.lk.blog" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.lk.blog.controller" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\Java\project\blog" />
@@ -140,16 +159,6 @@
       <recent name="D:\Java\project\blog\bloguser\public\img\bg" />
       <recent name="D:\Java\project\blog\img\bg" />
       <recent name="D:\Java\project\blog\java\main\java\com\lk\blog\service" />
-    </key>
-    <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="com.lk.blog.controller" />
-    </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="D:\Java\project\blog\bloguser\src\views\user\userINFO" />
-      <recent name="D:\Java\project\blog\bloguser\public\img\bg" />
-      <recent name="D:\Java\project\blog\bloguser\src\views\user" />
-      <recent name="D:\Java\project\blog\bloguser\src\views\login" />
-      <recent name="D:\Java\project\blog\bloguser\src\views\home" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -209,6 +218,19 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -378,6 +400,8 @@
       <workItem from="1601785390591" duration="1721000" />
       <workItem from="1601788021486" duration="858000" />
       <workItem from="1601792121654" duration="1504000" />
+      <workItem from="1602842019199" duration="647000" />
+      <workItem from="1603534742086" duration="86000" />
     </task>
     <task id="LOCAL-00001" summary="添加前端">
       <created>1600234089501</created>
@@ -616,10 +640,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="790" y="240" key="RollbackChangesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1600236708773" />
-    <state x="489" y="238" width="998" height="708" key="SettingsEditor" timestamp="1600237240955">
+    <state x="489" y="238" width="998" height="708" key="SettingsEditor" timestamp="1602842671501">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="489" y="238" width="998" height="708" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1600237240955" />
+    <state x="489" y="238" width="998" height="708" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1602842671501" />
     <state width="498" height="446" key="SwitcherDM" timestamp="1599350901531">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>

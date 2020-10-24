@@ -30,4 +30,7 @@ public class AdminBlogController {
         boolean b = blogService.removeById(id);
         return ResultUtils.returnBooleanDataIsNull(b, "删除成功", "删除失败");
     }
+
+
+        
 }
