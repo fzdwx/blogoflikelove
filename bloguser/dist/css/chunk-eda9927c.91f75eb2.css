@@ -1,0 +1,13 @@
+.y {
+    top: 0;
+    right: -100%
+}
+
+.x, .y {
+    position: absolute
+}
+
+.x {
+    top: 8px;
+    left: 37%
+}
