@@ -8,6 +8,7 @@
       <configuration>
         <webroots />
         <sourceRoots>
+          <root url="file://$MODULE_DIR$/bloguser/dist" />
           <root url="file://$MODULE_DIR$/java/main/java" />
           <root url="file://$MODULE_DIR$/java/main/resources" />
         </sourceRoots>

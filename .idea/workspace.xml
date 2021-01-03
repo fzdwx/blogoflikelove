@@ -29,7 +29,13 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8b3d77de-e9a6-41c1-a01f-cc4e4451225c" name="默认的" comment="1" />
+    <list default="true" id="8b3d77de-e9a6-41c1-a01f-cc4e4451225c" name="默认的" comment="1">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog.iml" beforeDir="false" afterPath="$PROJECT_DIR$/blog.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/myblogs.sql" beforeDir="false" afterPath="$PROJECT_DIR$/java/main/resources/db/myblogs.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+    </list>
     <list id="d688a9db-69a6-414e-803b-78e9cdba790b" name="在进行Update之前于 2020/9/16 14:08 取消提交了变更 [默认的]" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -185,7 +191,7 @@
       </map>
     </option>
   </component>
-  <component name="RunManager" selected="npm.build">
+  <component name="RunManager" selected="Spring Boot.BlogApplication">
     <configuration name="JWTUtils" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.lk.blog.utils.JWTUtils" />
       <module name="blog" />
@@ -221,17 +227,6 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
-      <option name="arquillianRunConfiguration">
-        <value>
-          <option name="containerStateName" value="" />
-        </value>
-      </option>
-      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -403,7 +398,12 @@
       <workItem from="1601792121654" duration="1504000" />
       <workItem from="1602842019199" duration="647000" />
       <workItem from="1603534742086" duration="86000" />
-      <workItem from="1608546894869" duration="532000" />
+      <workItem from="1608546894869" duration="768000" />
+      <workItem from="1609506565351" duration="112000" />
+      <workItem from="1609507397490" duration="548000" />
+      <workItem from="1609508608922" duration="121000" />
+      <workItem from="1609510224800" duration="697000" />
+      <workItem from="1609639881693" duration="423000" />
     </task>
     <task id="LOCAL-00001" summary="添加前端">
       <created>1600234089501</created>
@@ -433,7 +433,14 @@
       <option name="project" value="LOCAL" />
       <updated>1608547188740</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="添加dist">
+      <created>1608547499747</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1608547499747</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -493,7 +500,8 @@
     <MESSAGE value="删除" />
     <MESSAGE value="1" />
     <MESSAGE value="添加dist" />
-    <option name="LAST_COMMIT_MESSAGE" value="添加dist" />
+    <MESSAGE value="update README.md" />
+    <option name="LAST_COMMIT_MESSAGE" value="update README.md" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
