@@ -30,11 +30,34 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8b3d77de-e9a6-41c1-a01f-cc4e4451225c" name="默认的" comment="1">
+      <change afterPath="$PROJECT_DIR$/.idea/dbnavigator.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog.iml" beforeDir="false" afterPath="$PROJECT_DIR$/blog.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/myblogs.sql" beforeDir="false" afterPath="$PROJECT_DIR$/java/main/resources/db/myblogs.sql" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bloguser/dist/css/chunk-30d0d78f.64fdef6e.css" beforeDir="false" afterPath="$PROJECT_DIR$/bloguser/dist/css/chunk-30d0d78f.64fdef6e.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bloguser/dist/css/chunk-3420acaa.9b5c5dbe.css" beforeDir="false" afterPath="$PROJECT_DIR$/bloguser/dist/css/chunk-3420acaa.9b5c5dbe.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bloguser/dist/css/chunk-609a8181.cbca10e0.css" beforeDir="false" afterPath="$PROJECT_DIR$/bloguser/dist/css/chunk-609a8181.cbca10e0.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bloguser/dist/css/chunk-66a12ffb.522c6d21.css" beforeDir="false" afterPath="$PROJECT_DIR$/bloguser/dist/css/chunk-66a12ffb.522c6d21.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bloguser/dist/css/chunk-eda9927c.91f75eb2.css" beforeDir="false" afterPath="$PROJECT_DIR$/bloguser/dist/css/chunk-eda9927c.91f75eb2.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bloguser/dist/img/fontello.9354499c.svg" beforeDir="false" afterPath="$PROJECT_DIR$/bloguser/dist/img/fontello.9354499c.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bloguser/dist/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/bloguser/dist/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bloguser/dist/js/app.21833d46.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bloguser/dist/js/chunk-14273eab.31e6d878.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bloguser/dist/js/chunk-20fae0c5.2bcdb752.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bloguser/dist/js/chunk-283c78eb.6c5e75cb.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bloguser/dist/js/chunk-2d452c1a.35efbc02.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bloguser/dist/js/chunk-3420acaa.af7793e6.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bloguser/dist/js/chunk-609a8181.1630e357.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bloguser/dist/js/chunk-6117f542.17cbfad0.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bloguser/dist/js/chunk-66a12ffb.410c8698.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bloguser/dist/js/chunk-6a5f082c.df2bf6c6.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bloguser/dist/js/chunk-735e6399.6f45911b.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bloguser/dist/js/chunk-eda9927c.2dd422f6.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bloguser/dist/js/chunk-vendors.f951c2ca.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/bloguser/dist/js/chunk-vendors.f951c2ca.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bloguser/dist/manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/bloguser/dist/manifest.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bloguser/dist/precache-manifest.9229ee3ab96086ca74b72fd215e21b20.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bloguser/dist/service-worker.js" beforeDir="false" afterPath="$PROJECT_DIR$/bloguser/dist/service-worker.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bloguser/src/network/request.js" beforeDir="false" afterPath="$PROJECT_DIR$/bloguser/src/network/request.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/java/main/resources/application.properties" afterDir="false" />
     </list>
     <list id="d688a9db-69a6-414e-803b-78e9cdba790b" name="在进行Update之前于 2020/9/16 14:08 取消提交了变更 [默认的]" comment="" />
     <option name="SHOW_DIALOG" value="false" />
@@ -132,7 +155,7 @@
     <property name="WebServerToolWindowPanel.toolwindow.show.size" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="javascript.nodejs.core.library.configured.version" value="12.18.3" />
-    <property name="javascript.nodejs.core.library.typings.version" value="12.19.9" />
+    <property name="javascript.nodejs.core.library.typings.version" value="12.20.4" />
     <property name="jmeter.home" value="" />
     <property name="jmeter.override" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -149,25 +172,25 @@
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="D:\Java\project\blog" />
-      <recent name="D:\Java\project\blog\bloguser\src\views\user\userINFO" />
-      <recent name="D:\Java\project\blog\bloguser\public\img\bg" />
-      <recent name="D:\Java\project\blog\bloguser\src\views\user" />
-      <recent name="D:\Java\project\blog\bloguser\src\views\login" />
-    </key>
-    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
-      <recent name="com.lk.blog" />
-    </key>
-    <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="com.lk.blog.controller" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\Java\project\blog" />
       <recent name="D:\Java\project\blog\开发日志" />
       <recent name="D:\Java\project\blog\bloguser\public\img\bg" />
       <recent name="D:\Java\project\blog\img\bg" />
       <recent name="D:\Java\project\blog\java\main\java\com\lk\blog\service" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Java\project\myproject\blog\java\main\resources\db" />
+      <recent name="D:\Java\project\blog" />
+      <recent name="D:\Java\project\blog\bloguser\src\views\user\userINFO" />
+      <recent name="D:\Java\project\blog\bloguser\public\img\bg" />
+      <recent name="D:\Java\project\blog\bloguser\src\views\user" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.lk.blog" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.lk.blog.controller" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -191,7 +214,7 @@
       </map>
     </option>
   </component>
-  <component name="RunManager" selected="Spring Boot.BlogApplication">
+  <component name="RunManager" selected="npm.build">
     <configuration name="JWTUtils" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.lk.blog.utils.JWTUtils" />
       <module name="blog" />
@@ -298,22 +321,19 @@
       <method v="2" />
     </configuration>
     <list>
+      <item itemvalue="Application.JWTUtils" />
+      <item itemvalue="Application.MarkdownUtils" />
+      <item itemvalue="Application.MpGenerator" />
       <item itemvalue="Docker.blog-docker" />
-      <item itemvalue="JavaScript 调试.Debug Application" />
+      <item itemvalue="JavaScript Debug.Debug Application" />
       <item itemvalue="npm.serve" />
       <item itemvalue="npm.build" />
       <item itemvalue="Spring Boot.BlogApplication" />
-      <item itemvalue="应用程序.JWTUtils" />
-      <item itemvalue="应用程序.MarkdownUtils" />
-      <item itemvalue="应用程序.MpGenerator" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="npm.serve" />
         <item itemvalue="npm.build" />
-        <item itemvalue="应用程序.JWTUtils" />
-        <item itemvalue="应用程序.MpGenerator" />
-        <item itemvalue="应用程序.MarkdownUtils" />
+        <item itemvalue="npm.serve" />
       </list>
     </recent_temporary>
   </component>
@@ -403,7 +423,9 @@
       <workItem from="1609507397490" duration="548000" />
       <workItem from="1609508608922" duration="121000" />
       <workItem from="1609510224800" duration="697000" />
-      <workItem from="1609639881693" duration="423000" />
+      <workItem from="1609639881693" duration="509000" />
+      <workItem from="1610629355959" duration="207000" />
+      <workItem from="1614125076411" duration="3464000" />
     </task>
     <task id="LOCAL-00001" summary="添加前端">
       <created>1600234089501</created>
@@ -440,7 +462,14 @@
       <option name="project" value="LOCAL" />
       <updated>1608547499747</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="update README.md">
+      <created>1609640308883</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1609640308883</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

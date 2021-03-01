@@ -2,8 +2,12 @@
 
 这是一个博客项目，个人练手项目。后端使用SSM框架，前端基于vue + element-ui，数据库使用mysql。
 
-在线访问：http://47.112.150.204
+纯练手项目
+
+在线访问：http://8.131.57.243
+
 gitee:https://gitee.com/likeloveC/blogoflikelove
+
 # 一、目录介绍
 
 ### java
